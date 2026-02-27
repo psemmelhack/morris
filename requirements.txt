@@ -1,0 +1,15 @@
+crewai
+crewai-tools
+langchain-anthropic
+anthropic
+apscheduler
+python-telegram-bot
+fastapi
+uvicorn
+tavily-python
+python-dotenv
+requests
+pytz
+psycopg2-binary
+resend
+pydantic-settings
